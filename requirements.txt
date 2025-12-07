@@ -1,0 +1,5 @@
+gradio
+pytesseract
+Pillow
+requests
+python-dotenv

@@ -1,0 +1,17 @@
+{
+  "HDFC Bank": {"url": "https://www.hdfcbank.com", "type": "Private"},
+  "ICICI Bank": {"url": "https://www.icicibank.com", "type": "Private"},
+  "State Bank of India": {"url": "https://www.onlinesbi.com", "type": "Public"},
+  "Axis Bank": {"url": "https://www.axisbank.com", "type": "Private"},
+  "Kotak Mahindra Bank": {"url": "https://www.kotak.com", "type": "Private"},
+  "Punjab National Bank": {"url": "https://www.pnbindia.in", "type": "Public"},
+  "Bank of Baroda": {"url": "https://www.bankofbaroda.in", "type": "Public"},
+  "Yes Bank": {"url": "https://www.yesbank.in", "type": "Private"},
+  "IDFC FIRST Bank": {"url": "https://www.idfcfirstbank.com", "type": "Private"},
+  "IndusInd Bank": {"url": "https://www.indusind.com", "type": "Private"},
+  "Union Bank of India": {"url": "https://www.unionbankofindia.co.in", "type": "Public"},
+  "Canara Bank": {"url": "https://www.canarabank.com", "type": "Public"},
+  "Central Bank of India": {"url": "https://www.centralbankofindia.co.in", "type": "Public"},
+  "Federal Bank": {"url": "https://www.federalbank.co.in", "type": "Private"},
+  "Bank of India": {"url": "https://www.bankofindia.co.in", "type": "Public"}
+}

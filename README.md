@@ -1,2 +1,3 @@
-# UPI-Guardian
-UPI Guardian is an AI-powered financial safety system designed to protect users from UPI fraud, suspicious transactions, social-engineering scams, and accidental money transfers.
+# UPI Guarding Multi-Agent System
+
+A **multi-agent backend system** to monitor UPI transactions, detect potential fraud, and send notifications. Built in Python with modular agents for easy extension.
